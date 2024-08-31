@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Speedster",
+        "speed": 10,
+        "specialAbility": "Boost"
+    },
+    {
+        "id": 2,
+        "name": "Flash",
+        "speed": 15,
+        "specialAbility": "Teleport"
+    }
+]

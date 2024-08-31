@@ -1,0 +1,17 @@
+[
+    {
+        "level": 1,
+        "difficulty": "Easy",
+        "obstacleSpeed": 5
+    },
+    {
+        "level": 2,
+        "difficulty": "Medium",
+        "obstacleSpeed": 10
+    },
+    {
+        "level": 3,
+        "difficulty": "Hard",
+        "obstacleSpeed": 15
+    }
+]

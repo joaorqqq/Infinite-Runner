@@ -1,0 +1,14 @@
+[
+    {
+        "id": "spike",
+        "name": "Spike",
+        "damage": 10,
+        "appearance": "A sharp spike obstacle"
+    },
+    {
+        "id": "pit",
+        "name": "Pit",
+        "damage": 20,
+        "appearance": "A deep pit that slows you down"
+    }
+]

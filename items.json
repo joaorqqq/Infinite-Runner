@@ -1,0 +1,12 @@
+[
+    {
+        "id": "coin",
+        "name": "Coin",
+        "effect": "Increase score by 10"
+    },
+    {
+        "id": "boost",
+        "name": "Speed Boost",
+        "effect": "Increase speed temporarily"
+    }
+]

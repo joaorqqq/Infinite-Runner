@@ -1,0 +1,3 @@
+#!/bin/bash
+# This script will start the Node.js server
+node server.js

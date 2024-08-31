@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "First Run",
+        "description": "Complete your first run."
+    },
+    {
+        "id": 2,
+        "name": "High Score",
+        "description": "Achieve a score of 1000 or more."
+    }
+]

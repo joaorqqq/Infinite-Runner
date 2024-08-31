@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Collect 100 Coins",
+        "description": "Collect 100 coins in one run."
+    },
+    {
+        "id": 2,
+        "title": "Survive for 5 Minutes",
+        "description": "Survive for 5 minutes without crashing."
+    }
+]
